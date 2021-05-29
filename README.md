@@ -45,7 +45,8 @@ It’s nice to create useful software solutions, in a world where technology has
 
 *** 
 ### 🧐 My future plans & interests
-I'm interested in continuing my studies, more specially a Master’s degree related to **Data Science**.
+I'm interested in continuing my studies, more specifically a Master’s degree related to **Data Science**.
+
 I am also learning more about: artificial intelligence, data prediction, parallel processing, thread managing, cloud computing,  development of: web apps, mobile apps & games.
 
 ***
