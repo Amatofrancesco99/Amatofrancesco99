@@ -11,7 +11,8 @@ I'm a **computer engineering student** (Bachelor degree), at the [University of 
 ***
 ### 👨🏻‍💻 My software developement passion
 Since I was young, I have always been **fascinated by *computer science*** field of study, especially *software development* in different applications.
-It’s nice to create useful software solutions, in a world where technology has become the *daily life*.
+
+It’s nice creating useful software solutions, in a world where technology has become the *daily life*.
 
 ***
 ### 🏅 Knowledge badges
