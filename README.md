@@ -63,7 +63,7 @@ In my repositories you can find **some of my projects**, made over the years, su
 I’m currently developing, with my Team, an application in order to manage a [cinema's tickets booking system](https://github.com/IngSW-unipv/Progetto-F21).
 
 *** 
-### 🗣 SPOKEN LANGUAGES
+### 🗣 Spoken languages
 - ITALIAN - mother tongue
 - ENGLISH - B2 / First
 
