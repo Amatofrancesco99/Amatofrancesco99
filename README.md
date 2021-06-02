@@ -65,7 +65,7 @@ I’m currently developing, with my Team, an application in order to manage a [c
 *** 
 ### 🗣 Spoken languages
 - ITALIAN - mother tongue
-- ENGLISH - B2 / First
+- ENGLISH - B2 / first
 
 ***
 ### 📲 How to contact me 
