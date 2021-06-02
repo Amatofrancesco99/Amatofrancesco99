@@ -62,6 +62,11 @@ In my repositories you can find **some of my projects**, made over the years, su
 ### 🔭 What I am actually working on 
 I’m currently developing, with my Team, an application in order to manage a [cinema's tickets booking system](https://github.com/IngSW-unipv/Progetto-F21).
 
+*** 
+### 🗣 SPOKEN LANGUAGES
+- ITALIAN - mother tongue
+- ENGLISH - B2 / First
+
 ***
 ### 📫📲 How to reach me
 ![GMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) francesco.amato01@universitadipavia.it
