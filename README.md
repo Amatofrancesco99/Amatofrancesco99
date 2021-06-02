@@ -1,4 +1,4 @@
-## Hi there 👋
+## 👋 HI THERE 👋
 
 <!--
 **Amatofrancesco99/Amatofrancesco99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -68,7 +68,7 @@ I’m currently developing, with my Team, an application in order to manage a [c
 - ENGLISH - B2 / First
 
 ***
-### 📫📲 How to reach me
+### 📲 How to contact me 
 ![GMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) francesco.amato01@universitadipavia.it
 
 ![INSTA](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
