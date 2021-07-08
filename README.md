@@ -53,14 +53,15 @@ I am also learning more about: artificial intelligence, data prediction, paralle
 ***
 ### 🚀 Some of my projects
 In my repositories you can find **some of my projects**, made over the years, such as:
-- [Selector Guide (2016)](https://github.com/Amatofrancesco99/Selector-Guide): an app to help [Via Technologies](https://www.viatech.com/en/) vendors to sell Via's products to customers, once they've specified product's features;
-- [Autonomous Car Drive (2019)](https://github.com/Amatofrancesco99/Autonomous-Car-Drive): an "Arduino Car" that drives alone, using its optical sensors and some Python code to detect other cars and pedestrians in a real situation, via video analysis;
+- [Cinema's tickets booking system(2021)](https://github.com/Amatofrancesco99/Progetto-F21): a whole application in order to book cinema tickets, applying software engineering theory (UMLs, GoF patterns, GRASP, ...); 
 - [Gas Consumption Prediction (2021)](https://github.com/Amatofrancesco99/Gas_consumption-prediction): a project whose aim is predict gas consumption in Italy, given some parameters, using model identification theory and data analysis;
+- [Autonomous Car Drive (2019)](https://github.com/Amatofrancesco99/Autonomous-Car-Drive): an "Arduino Car" that drives alone, using its optical sensors and some Python code to detect other cars and pedestrians in a real situation, via video analysis;
+- [Selector Guide (2016)](https://github.com/Amatofrancesco99/Selector-Guide): an app to help [Via Technologies](https://www.viatech.com/en/) vendors to sell Via's products to customers, once they've specified product's features;
 - [Face Detection (2021)](https://github.com/Amatofrancesco99/Face-Detection), [Games (2016-2018)](https://github.com/Amatofrancesco99/Games), and so on.
 
 *** 
 ### 🔭 What I am actually working on 
-I’m currently developing, with my Team, an application in order to manage a [cinema's tickets booking system](https://github.com/IngSW-unipv/Progetto-F21).
+I’m currently developing on a multithreaded web service.
 
 *** 
 ### 🗣 Spoken languages
