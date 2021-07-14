@@ -61,7 +61,7 @@ In my repositories you can find **some of my projects**, made over the years, su
 
 *** 
 ### 🔭 What I am actually working on 
-I’m currently developing on a multithreaded web service.
+I’m currently developing a java application in order to apply steganography to images.
 
 *** 
 ### 🗣 Spoken languages
