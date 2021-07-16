@@ -53,6 +53,7 @@ I am also learning more about: artificial intelligence, data prediction, paralle
 ***
 ### 🚀 Some of my projects
 In my repositories you can find **some of my projects**, made over the years, such as:
+- [Steganography (2021)](https://github.com/Amatofrancesco99/Steganography): apply steganography theory on images, using multithread, to hide a message between two interlocutors;
 - [Cinema's tickets booking system(2021)](https://github.com/Amatofrancesco99/Progetto-F21): a whole application in order to book cinema tickets, applying software engineering theory (UMLs, GoF patterns, GRASP, ...); 
 - [Gas Consumption Prediction (2021)](https://github.com/Amatofrancesco99/Gas_consumption-prediction): a project whose aim is predict gas consumption in Italy, given some parameters, using model identification theory and data analysis;
 - [Autonomous Car Drive (2019)](https://github.com/Amatofrancesco99/Autonomous-Car-Drive): an "Arduino Car" that drives alone, using its optical sensors and some Python code to detect other cars and pedestrians in a real situation, via video analysis;
@@ -61,7 +62,7 @@ In my repositories you can find **some of my projects**, made over the years, su
 
 *** 
 ### 🔭 What I am actually working on 
-I’m currently developing a java application in order to apply steganography to images.
+🤔🧐💭
 
 *** 
 ### 🗣 Spoken languages
