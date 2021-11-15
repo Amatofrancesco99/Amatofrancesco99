@@ -6,7 +6,7 @@
 
 *** 
 ### 📚 What I am studying
-I'm a **computer engineering student** (Bachelor degree), at the [University of Pavia](http://webing.unipv.eu/home/).
+I'm a **data science student** (Master degree), at the [University of Pavia](http://webing.unipv.eu/home/).
 
 ***
 ### 👨🏻‍💻 My software developement passion
@@ -46,9 +46,7 @@ It’s nice creating useful software solutions, in a world where technology has 
 
 *** 
 ### 🧐 My future plans & interests
-I'm interested in continuing my studies, more specifically a Master’s degree related to **Data Science**.
-
-I am also learning more about: artificial intelligence, data prediction, parallel processing, thread managing, cloud computing,  development of: web apps, mobile apps & games.
+Actually I'm learning more about: artificial intelligence, data analysis, cloud computing, development of: web apps, mobile apps & games.
 
 ***
 ### 🚀 Some of my projects
@@ -62,7 +60,11 @@ In my repositories you can find **some of my projects**, made over the years, su
 
 *** 
 ### 🔭 What I am actually working on 
-🤔🧐💭
+I'm working on my bachelor degree's thesis on data-analytics applyed onto IoT sensors.
+
+During my free time instead, I'm developing my personal web portfolio. 
+Have a look on it, even if still needs updates on some personal details:
+ - https://amatofrancesco.altervista.org
 
 *** 
 ### 🗣 Spoken languages
@@ -71,7 +73,7 @@ In my repositories you can find **some of my projects**, made over the years, su
 
 ***
 ### 📲 How to contact me 
-![GMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) francesco.amato01@universitadipavia.it
+<a href="mailto:amatofrancesco99@gmail.com">![GMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> 
 
 ![INSTA](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
 
