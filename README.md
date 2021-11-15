@@ -63,7 +63,7 @@ In my repositories you can find **some of my projects**, made over the years, su
 I'm working on my bachelor degree's thesis on data-analytics applied onto IoT sensors.
 
 During my free time, instead, I'm developing my personal web portfolio. 
-Have a look on it, even if still needs updates on some personal details:
+Have a look on it, even if still needs updates on some details:
  - https://amatofrancesco.altervista.org
 
 *** 
