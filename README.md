@@ -67,4 +67,4 @@ I'm working on my bachelor degree's thesis on data-analytics applied onto IoT se
 
 ***
 ### 📲 How to contact me 
-You can get all my references in the following website:  https://www.amatofrancesco.altervista.org
+You can get all my references in my own [website](https://www.amatofrancesco.altervista.org).
