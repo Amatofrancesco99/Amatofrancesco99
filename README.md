@@ -10,9 +10,7 @@ I'm a **data science student** (Master degree), at the [University of Pavia](htt
 
 ***
 ### 👨🏻‍💻 My software developement passion
-Since I was young, I have always been **fascinated by *computer science*** field of study, especially *software development* in different applications.
-
-It’s nice creating useful software solutions, in a world where technology has become the *daily life*.
+I have always been **fascinated by *computer science*** field of study, especially *software development* in many different applications.
 
 ***
 ### 🏅 Knowledge badges
@@ -62,10 +60,6 @@ In my repositories you can find **some of my projects**, made over the years, su
 ### 🔭 What I am actually working on 
 I'm working on my bachelor degree's thesis on data-analytics applied onto IoT sensors.
 
-During my free time, instead, I'm developing my personal web portfolio. 
-Have a look on it, even if still needs updates on some details:
- - https://amatofrancesco.altervista.org
-
 *** 
 ### 🗣 Spoken languages
 - ITALIAN - mother tongue
@@ -73,9 +67,4 @@ Have a look on it, even if still needs updates on some details:
 
 ***
 ### 📲 How to contact me 
-<a href="">![LINKEDIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a> 
-<a href="mailto:amatofrancesco99@gmail.com">![MAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> 
-<a href="">![TELEGRAM](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)</a>
-<a href="http://instagram.com/_u/amatofrancesco99/">![INSTA](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)</a>
-<a href="">![SKYPE](https://img.shields.io/badge/Skype-blue?style=for-the-badge&logo=skype&logoColor=white)</a>
-<a href="">![WHATSAPP](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)</a> 
+You can get all my references in the following website:  https://www.amatofrancesco.altervista.org
