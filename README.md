@@ -1,11 +1,7 @@
 ## 👋 HI THERE, I'M FRANCESCO 👋
 
-<!--
-**Amatofrancesco99/Amatofrancesco99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
-
 *** 
-### 📚 What I am studying
+### 🧐 What I am studying
 I'm a **data science student** (Master degree), at the [University of Pavia](http://webing.unipv.eu/home/).
 
 ***
@@ -51,8 +47,8 @@ I have always been **fascinated by *computer science*** field of study, especial
 ![GOOGLE-SHEETS](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white)
 
 *** 
-### 🧐 My future plans & interests
-Actually I'm learning more about: artificial intelligence, data analysis, cloud computing, development of: web apps, mobile apps & games.
+### 🔭 What I am actually working on 
+I'm working on my bachelor degree thesis on data-analytics applied onto IoT sensors.
 
 ***
 ### 🚀 Some of my projects
@@ -65,7 +61,7 @@ In my repositories you can find **some of my projects**, made over the years, su
 - [Face Detection (2021)](https://github.com/Amatofrancesco99/Face-Detection), [Games (2016-2018)](https://github.com/Amatofrancesco99/Games), and so on.
 
 *** 
-### 🔭 What I am actually working on 
+### 📚 Studies and interests
 I'm working on my bachelor degree thesis on data-analytics applied onto IoT sensors.
 
 *** 
