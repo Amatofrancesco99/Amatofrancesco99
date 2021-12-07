@@ -8,6 +8,35 @@ I'm a **data science student** (Master degree), at the [University of Pavia](htt
 ### 👨🏻‍💻 My software developement passion
 I have always been **fascinated by *computer science*** field of study, especially *software development* in many different applications.
 
+*** 
+### 🔭 What I am actually working on 
+I'm working on my bachelor degree thesis on data-analytics applied onto IoT sensors.
+
+***
+### 🚀 Some of my projects
+In my repositories you can find **some of my projects**, made over the years, such as:
+- [Steganography (2021)](https://github.com/Amatofrancesco99/Steganography): apply steganography theory on images, using multithread, to hide a message between two interlocutors;
+- [Cinema's tickets booking system (2021)](https://github.com/Amatofrancesco99/Progetto-F21): a whole application in order to book cinema tickets, applying software engineering theory (UMLs, GoF patterns, GRASP, ...); 
+- [Gas Consumption Prediction (2021)](https://github.com/Amatofrancesco99/Gas_consumption-prediction): a project whose aim is predict gas consumption in Italy, given some parameters, using model identification theory and data analysis;
+- [Autonomous Car Drive (2019)](https://github.com/Amatofrancesco99/Autonomous-Car-Drive): an "Arduino Car" that drives alone, using its optical sensors and some Python code to detect other cars and pedestrians in a real situation, via video analysis;
+- [Selector Guide (2016)](https://github.com/Amatofrancesco99/Selector-Guide): an app to help [Via Technologies](https://www.viatech.com/en/) vendors to sell Via's products to customers, once they've specified product's features;
+- [Face Detection (2021)](https://github.com/Amatofrancesco99/Face-Detection), [Games (2016-2018)](https://github.com/Amatofrancesco99/Games), and so on.
+
+*** 
+### 📚 Studies and interests
+Actually I'm learning more about: artificial intelligence, data analysis, cloud computing, development of: web apps, mobile apps & games.
+Instead, during my free time, among the other things, I like reading books. Here's a list:
+ 
+
+*** 
+### 🗣 Spoken languages
+- ITALIAN - mother tongue
+- ENGLISH - B2 / first
+
+***
+### 📲 How to contact me 
+You can get all my references in my own [website](https://www.amatofrancesco.altervista.org).
+
 ***
 ### 🏅 Knowledge badges
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
@@ -45,30 +74,3 @@ I have always been **fascinated by *computer science*** field of study, especial
 
 ![MICROSOFT-OFFICE](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
 ![GOOGLE-SHEETS](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white)
-
-*** 
-### 🔭 What I am actually working on 
-I'm working on my bachelor degree thesis on data-analytics applied onto IoT sensors.
-
-***
-### 🚀 Some of my projects
-In my repositories you can find **some of my projects**, made over the years, such as:
-- [Steganography (2021)](https://github.com/Amatofrancesco99/Steganography): apply steganography theory on images, using multithread, to hide a message between two interlocutors;
-- [Cinema's tickets booking system (2021)](https://github.com/Amatofrancesco99/Progetto-F21): a whole application in order to book cinema tickets, applying software engineering theory (UMLs, GoF patterns, GRASP, ...); 
-- [Gas Consumption Prediction (2021)](https://github.com/Amatofrancesco99/Gas_consumption-prediction): a project whose aim is predict gas consumption in Italy, given some parameters, using model identification theory and data analysis;
-- [Autonomous Car Drive (2019)](https://github.com/Amatofrancesco99/Autonomous-Car-Drive): an "Arduino Car" that drives alone, using its optical sensors and some Python code to detect other cars and pedestrians in a real situation, via video analysis;
-- [Selector Guide (2016)](https://github.com/Amatofrancesco99/Selector-Guide): an app to help [Via Technologies](https://www.viatech.com/en/) vendors to sell Via's products to customers, once they've specified product's features;
-- [Face Detection (2021)](https://github.com/Amatofrancesco99/Face-Detection), [Games (2016-2018)](https://github.com/Amatofrancesco99/Games), and so on.
-
-*** 
-### 📚 Studies and interests
-I'm working on my bachelor degree thesis on data-analytics applied onto IoT sensors.
-
-*** 
-### 🗣 Spoken languages
-- ITALIAN - mother tongue
-- ENGLISH - B2 / first
-
-***
-### 📲 How to contact me 
-You can get all my references in my own [website](https://www.amatofrancesco.altervista.org).
