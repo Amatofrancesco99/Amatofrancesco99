@@ -67,7 +67,12 @@ Actually I'm learning more about: artificial intelligence, data analysis, cloud 
 Instead, during my free time, among the other things, I like reading books. 
 <br>
 Here's a list:
- * <strong>Clean Code: A handbook of Agile Software Craftsmanship</strong>- Robert C. Martin
+  * <strong>Clean Code: A Handbook of Agile Software Craftsmanship</strong> - Robert C. Martin
+  * <strong>Storytelling With Data: A Data Visualization Guide For Business Professionals</strong> - Cole Nussbaumer Knaflic
+  * <strong>Superintelligence: Paths, Dangers, Strategies</strong> - Nick Bostrom
+  * <strong>Cloud Computing: Concepts, Technology & Architecture</strong> - Thomas Erl
+  * <strong>[21 Data Science Books You Should Read](https://towardsdatascience.com/21-data-science-books-you-should-read-in-2021-db625e97feb6)</strong>
+  * <strong>Norse Mythology</strong> - Neil Gaiman
 
 *** 
 ### 🗣 Spoken languages
