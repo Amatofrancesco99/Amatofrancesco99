@@ -63,7 +63,10 @@ In my repositories you can find **some of my projects**, made over the years, su
 *** 
 ### 📚 Studies and interests
 Actually I'm learning more about: artificial intelligence, data analysis, cloud computing, development of: web apps, mobile apps & games.
-Instead, during my free time, among the other things, I like reading books. Here's a list:
+<br><br>
+Instead, during my free time, among the other things, I like reading books. 
+<br>
+Here's a list:
  * <strong>Clean Code: A handbook of Agile Software Craftsmanship</strong>- Robert C. Martin
 
 *** 
