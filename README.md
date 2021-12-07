@@ -71,8 +71,8 @@ Here's a list:
   * <strong>Storytelling With Data: A Data Visualization Guide For Business Professionals</strong> - Cole Nussbaumer Knaflic
   * <strong>Superintelligence: Paths, Dangers, Strategies</strong> - Nick Bostrom
   * <strong>Cloud Computing: Concepts, Technology & Architecture</strong> - Thomas Erl
-  * <strong>[21 Data Science Books You Should Read](https://towardsdatascience.com/21-data-science-books-you-should-read-in-2021-db625e97feb6)</strong>
   * <strong>Norse Mythology</strong> - Neil Gaiman
+  * <strong>[21 Data Science Books You Should Read](https://towardsdatascience.com/21-data-science-books-you-should-read-in-2021-db625e97feb6)</strong>
 
 *** 
 ### 🗣 Spoken languages
