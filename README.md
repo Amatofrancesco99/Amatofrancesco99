@@ -6,7 +6,7 @@ I'm a <strong>data science student</strong> (Master degree), at the [University 
 
 ***
 ### 👨🏻‍💻 My software developement passion
-I have always been <strong>fascinated by <em>computer science</em></strong> field of study, especially *software development* in many different applications.
+I have always been <strong>fascinated by <em>computer science</em></strong> field of study, especially <em>software development</em> in many different applications.
 
 ***
 ### 🏅 Knowledge badges
@@ -52,11 +52,11 @@ I'm working on my bachelor degree thesis on data-analytics applied onto IoT sens
 
 ***
 ### 🚀 Some of my projects
-In my repositories you can find **some of my projects**, made over the years, such as:
+In my repositories you can find <strong>some of my projects</strong>, made over the years, such as:
 - [Steganography (2021)](https://github.com/Amatofrancesco99/Steganography): apply steganography theory on images, using multithread, to hide a message between two interlocutors;
 - [Cinema's tickets booking system (2021)](https://github.com/Amatofrancesco99/Progetto-F21): a whole application in order to book cinema tickets, applying software engineering theory (UMLs, GoF patterns, GRASP, ...); 
 - [Gas Consumption Prediction (2021)](https://github.com/Amatofrancesco99/Gas_consumption-prediction): a project whose aim is predict gas consumption in Italy, given some parameters, using model identification theory and data analysis;
-- [Autonomous Car Drive (2019)](https://github.com/Amatofrancesco99/Autonomous-Car-Drive): an "Arduino Car" that drives alone, using its optical sensors and some Python code to detect other cars and pedestrians in a real situation, via video analysis;
+- [Autonomous Car Drive (2019)](https://github.com/Amatofrancesco99/Autonomous-Car-Drive): an <em>"Arduino Car"</em> that drives alone, using its optical sensors and some Python code to detect other cars and pedestrians in a real situation, via video analysis;
 - [Selector Guide (2016)](https://github.com/Amatofrancesco99/Selector-Guide): an app to help [Via Technologies](https://www.viatech.com/en/) vendors to sell Via's products to customers, once they've specified product's features;
 - [Face Detection (2021)](https://github.com/Amatofrancesco99/Face-Detection), [Games (2016-2018)](https://github.com/Amatofrancesco99/Games), and so on.
 
@@ -82,4 +82,4 @@ Here's a list:
 
 ***
 ### 📲 How to contact me 
-You can get all my references in my own [website](https://www.amatofrancesco.altervista.org).
+You can get all my references in my own [WEBSITE](https://www.amatofrancesco.altervista.org).
