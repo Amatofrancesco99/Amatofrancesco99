@@ -2,11 +2,11 @@
 
 *** 
 ### 🧐 What I am studying
-I'm a **data science student** (Master degree), at the [University of Pavia](http://webing.unipv.eu/home/).
+I'm a <strong>data science student</strong> (Master degree), at the [University of Pavia](http://webing.unipv.eu/home/).
 
 ***
 ### 👨🏻‍💻 My software developement passion
-I have always been **fascinated by *computer science*** field of study, especially *software development* in many different applications.
+I have always been <strong>fascinated by *computer science</strong> field of study, especially *software development* in many different applications.
 
 ***
 ### 🏅 Knowledge badges
@@ -71,6 +71,7 @@ Here's a list:
   * <strong>Storytelling With Data: A Data Visualization Guide For Business Professionals</strong> - Cole Nussbaumer Knaflic
   * <strong>Superintelligence: Paths, Dangers, Strategies</strong> - Nick Bostrom
   * <strong>Cloud Computing: Concepts, Technology & Architecture</strong> - Thomas Erl
+  * <strong>Leonardo da Vinci</strong> - Walter Isaacson
   * <strong>Norse Mythology</strong> - Neil Gaiman
   * <strong>[21 Data Science Books You Should Read](https://towardsdatascience.com/21-data-science-books-you-should-read-in-2021-db625e97feb6)</strong>
 
