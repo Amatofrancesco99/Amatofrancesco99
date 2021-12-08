@@ -6,7 +6,7 @@ I'm a <strong>data science student</strong> (Master degree), at the [University 
 
 ***
 ### 👨🏻‍💻 My software developement passion
-I have always been <strong>fascinated by *computer science</strong> field of study, especially *software development* in many different applications.
+I have always been <strong>fascinated by <em>computer science</em></strong> field of study, especially *software development* in many different applications.
 
 ***
 ### 🏅 Knowledge badges
