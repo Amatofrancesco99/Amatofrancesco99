@@ -1,5 +1,7 @@
 ## 👋 HI THERE, I'M FRANCESCO 👋
 
+![](https://komarev.com/ghpvc/?username=Amatofrancesco99&label=Profile+Views&style=plastic&color=brightgreen)
+
 *** 
 ### 🧐 What I am studying
 I'm a <strong>data science student</strong> (Master degree), at the [University of Pavia](http://webing.unipv.eu/home/).
