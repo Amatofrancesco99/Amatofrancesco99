@@ -1,6 +1,11 @@
-## 👋 HI THERE, I'M FRANCESCO 👋
+![image](https://user-images.githubusercontent.com/80333091/148574418-e618c001-c156-48ad-b141-6ac11f766975.png)
 
-![](https://komarev.com/ghpvc/?username=Amatofrancesco99&label=Profile+Views&style=plastic&color=brightgreen)
+
+![Amatofrancesco99 GitHub stats](https://github-readme-stats.vercel.app/api?username=Amatofrancesco99&show_icons=true&theme=merko&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Amatofrancesco99&layout=compact&theme=merko&hide_border=true)
+
+
+![](https://komarev.com/ghpvc/?username=Amatofrancesco1999&label=Profile+Views&style=plastic&color=brightgreen)
 
 *** 
 ### 🧐 What I am studying
