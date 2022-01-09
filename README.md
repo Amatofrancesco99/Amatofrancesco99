@@ -1,11 +1,14 @@
-![image](https://user-images.githubusercontent.com/80333091/148574418-e618c001-c156-48ad-b141-6ac11f766975.png)
+# Hi there, I am Francesco Amato <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px"></a>
 
+![](https://komarev.com/ghpvc/?username=Amatofrancesco1999&label=Profile+Views&style=plastic&color=brightgreen)
+
+<details>
+  <summary><b><strong>📈 Some Stats</strong></b></summary>
+  <br>
 
 ![Amatofrancesco99 GitHub stats](https://github-readme-stats.vercel.app/api?username=Amatofrancesco99&show_icons=true&theme=merko&hide_border=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Amatofrancesco99&layout=compact&theme=merko&hide_border=true)
-
-
-![](https://komarev.com/ghpvc/?username=Amatofrancesco1999&label=Profile+Views&style=plastic&color=brightgreen)
+</details>
 
 *** 
 ### 🧐 What I am studying
@@ -17,6 +20,7 @@ I have always been <strong>fascinated by <em>computer science</em></strong> fiel
 
 ***
 ### 🏅 Knowledge badges
+
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
