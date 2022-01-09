@@ -3,7 +3,7 @@
 ![](https://komarev.com/ghpvc/?username=Amatofrancesco1999&label=Profile+Views&style=plastic&color=brightgreen)
 
 <details>
-  <summary><b><strong>📈 Some Stats</strong></b></summary>
+  <summary><b><strong>📈 MY STATS</strong></b></summary>
   <br>
 
 ![Amatofrancesco99 GitHub stats](https://github-readme-stats.vercel.app/api?username=Amatofrancesco99&show_icons=true&theme=merko&hide_border=true)
