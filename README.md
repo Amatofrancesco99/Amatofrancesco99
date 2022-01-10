@@ -1,4 +1,4 @@
-## Hi there, I am Francesco Amato<a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="26px"></a>
+## Hi there, I am Francesco Amato<a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
 ![](https://komarev.com/ghpvc/?username=Amatofrancesco1999&label=Profile+Views&style=plastic&color=brightgreen)
 
