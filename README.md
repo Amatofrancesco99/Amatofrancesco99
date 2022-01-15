@@ -1,13 +1,18 @@
 # Hi there, I am Francesco Amato  <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px"></a>
 
-![](https://komarev.com/ghpvc/?username=Amatofrancesco1999&label=Profile+Views&style=plastic&color=brightgreen)
+[![Mentioned in Awesome GitHub Profile README](https://awesome.re/mentioned-badge-flat.svg)](https://github.com/abhisheknaiidu/awesome-github-profile-readme)
+[![My Website](https://img.shields.io/badge/PERSONAL-WEBSITE-blueviolet)](https://www.amatofrancesco.altervista.org)
+![Profile Views Counter](https://komarev.com/ghpvc/?username=Amatofrancesco1999&label=PROFILE+VIEWS&color=blueviolet)
+
 
 <details>
   <summary><b><strong>📈 MY GITHUB STATS</strong></b></summary>
   <br>
 
-![Amatofrancesco99 GitHub stats](https://github-readme-stats.vercel.app/api?username=Amatofrancesco99&show_icons=true&theme=merko&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Amatofrancesco99&layout=compact&theme=merko&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Amatofrancesco99&layout=compact&theme=merko&hide_border=true&langs_count=10)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Amatofrancesco99&theme=merko&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+![Amatofrancesco99 GitHub stats](https://github-readme-stats.vercel.app/api?username=Amatofrancesco99&show_icons=true&theme=merko&hide_border=true&custom_title=GitHub%20Stats)
+[![AmatoFrancesco99's github activity graph](https://activity-graph.herokuapp.com/graph?username=Amatofrancesco99&theme=gotham&custom_title=Contributions%20Graph%20(during%20latest%2031%20days))](https://github.com/ashutosh00710/github-readme-activity-graph)
 </details>
 
 *** 
@@ -64,12 +69,14 @@ I'm working on my bachelor degree thesis on data-analytics applied onto IoT sens
 ***
 ### 🚀 Some of my projects
 In my repositories you can find <strong>some of my projects</strong>, made over the years, such as:
-- [Steganography (2021)](https://github.com/Amatofrancesco99/Steganography): apply steganography theory on images, using multithread, to hide a message between two interlocutors;
-- [Cinema's tickets booking system (2021)](https://github.com/Amatofrancesco99/Progetto-F21): a whole application in order to book cinema tickets, applying software engineering theory (UMLs, GoF patterns, GRASP, ...); 
-- [Gas Consumption Prediction (2021)](https://github.com/Amatofrancesco99/Gas_consumption-prediction): a project whose aim is predict gas consumption in Italy, given some parameters, using model identification theory and data analysis;
-- [Autonomous Car Drive (2019)](https://github.com/Amatofrancesco99/Autonomous-Car-Drive): an <em>"Arduino Car"</em> that drives alone, using its optical sensors and some Python code to detect other cars and pedestrians in a real situation, via video analysis;
-- [Selector Guide (2016)](https://github.com/Amatofrancesco99/Selector-Guide): an app to help [Via Technologies](https://www.viatech.com/en/) vendors to sell Via's products to customers, once they've specified product's features;
-- [Face Detection (2021)](https://github.com/Amatofrancesco99/Face-Detection), [Games (2016-2018)](https://github.com/Amatofrancesco99/Games), and so on.
+<br>
+
+[![Customized Card](https://github-readme-stats.vercel.app/api/pin/?username=Amatofrancesco99&repo=Progetto-F21&show_icons=true&theme=merko&hide_border=true)](https://github.com/Amatofrancesco99/Progetto-F21&show_icons=true&theme=merko&hide_border=true)
+[![Customized Card](https://github-readme-stats.vercel.app/api/pin/?username=Amatofrancesco99&repo=image_quality_assessment&show_icons=true&theme=merko&hide_border=true)](https://github.com/Amatofrancesco99/image_quality_assessment)
+[![Customized Card](https://github-readme-stats.vercel.app/api/pin/?username=Amatofrancesco99&repo=Gas_consumption-prediction&show_icons=true&theme=merko&hide_border=true)](https://github.com/Amatofrancesco99/Gas_consumption-prediction)
+[![Customized Card](https://github-readme-stats.vercel.app/api/pin/?username=Amatofrancesco99&repo=Ornamental-value-estimation&show_icons=true&theme=merko&hide_border=true)](https://github.com/Amatofrancesco99/Ornamental-value-estimation)
+[![Customized Card](https://github-readme-stats.vercel.app/api/pin/?username=Amatofrancesco99&repo=Steganography&show_icons=true&theme=merko&hide_border=true)](https://github.com/Amatofrancesco99/Steganography)
+[![Customized Card](https://github-readme-stats.vercel.app/api/pin/?username=Amatofrancesco99&repo=Autonomous-Car-Drive&show_icons=true&theme=merko&hide_border=true)](https://github.com/Amatofrancesco99/Autonomous-Car-Drive)
 
 *** 
 ### 📚 Studies and interests
@@ -93,4 +100,6 @@ Here's a list:
 
 ***
 ### 📲 How to contact me 
-You can get all my references in my own [WEBSITE](https://www.amatofrancesco.altervista.org).
+You can get all my references here:
+
+[![My Website](https://img.shields.io/badge/PERSONAL-WEBSITE-blueviolet)](https://www.amatofrancesco.altervista.org)
