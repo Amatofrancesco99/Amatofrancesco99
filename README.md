@@ -101,4 +101,4 @@ Here's a list:
 ### 📲 How to contact me 
 You can get all my references here:
 
-[![My Website](https://img.shields.io/badge/MY OWN-WEBSITE-blueviolet)](https://www.amatofrancesco.altervista.org)
+[![My Website](https://img.shields.io/badge/MY_OWN-WEBSITE-blueviolet)](https://www.amatofrancesco.altervista.org)
