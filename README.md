@@ -9,10 +9,9 @@
   <summary><b><strong>📈 MY GITHUB STATS</strong></b></summary>
   <br>
 
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Amatofrancesco99&theme=github_dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Amatofrancesco99&layout=compact&theme=merko&hide_border=true&langs_count=10)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Amatofrancesco99&theme=merko&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 ![Amatofrancesco99 GitHub stats](https://github-readme-stats.vercel.app/api?username=Amatofrancesco99&show_icons=true&theme=merko&hide_border=true&custom_title=GitHub%20Stats)
-[![AmatoFrancesco99's github activity graph](https://activity-graph.herokuapp.com/graph?username=Amatofrancesco99&theme=gotham&custom_title=Contributions%20Graph%20(during%20latest%2031%20days))](https://github.com/ashutosh00710/github-readme-activity-graph)
 </details>
 
 *** 
