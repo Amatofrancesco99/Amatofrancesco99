@@ -2,7 +2,7 @@
 
 [![Mentioned in Awesome GitHub Profile README](https://awesome.re/mentioned-badge-flat.svg)](https://github.com/abhisheknaiidu/awesome-github-profile-readme)
 [![My Website](https://img.shields.io/badge/HAVE_A_LOOK_AT_-MY_WEBSITE-blueviolet)](https://www.amatofrancesco.altervista.org)
-![Profile Views Counter](https://komarev.com/ghpvc/?username=Amatofrancesco1999&label=PROFILE+VIEWS&color=blueviolet)
+![Profile Views Counter](https://komarev.com/ghpvc/?username=Amatofrancesco99&label=PROFILE+VIEWS&color=blueviolet)
 
 
 <details>
