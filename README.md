@@ -33,6 +33,7 @@ I have always been <strong>fascinated by <em>computer science</em></strong> fiel
 ![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
 ![JAVASCRIPT](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![PYTHON](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)
 
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
@@ -46,17 +47,14 @@ I have always been <strong>fascinated by <em>computer science</em></strong> fiel
 ![MONGO-DB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MICROSOFT-SERVER](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 
-![UNITY](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
 ![GIT](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=dot-net&logoColor=white)
 ![BOOTSTRAP](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![GOOGLE-CLOUD](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![GOOGLE-ANALYTICS](https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white)
 
 ![ECLIPSE](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
+![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+![PYCHARM](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
 ![VISUAL-STUDIO-CODE](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![ARDUINO](https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![PYCHARM](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
 
 ![MICROSOFT-OFFICE](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
 ![GOOGLE-SHEETS](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white)
@@ -73,7 +71,7 @@ In my repositories you can find <strong>some of my projects</strong>, made over 
 [![Customized Card](https://github-readme-stats.vercel.app/api/pin/?username=Amatofrancesco99&repo=Progetto-F21&show_icons=true&theme=merko&hide_border=true)](https://github.com/Amatofrancesco99/Progetto-F21&show_icons=true&theme=merko&hide_border=true)
 [![Customized Card](https://github-readme-stats.vercel.app/api/pin/?username=Amatofrancesco99&repo=image_quality_assessment&show_icons=true&theme=merko&hide_border=true)](https://github.com/Amatofrancesco99/image_quality_assessment)
 [![Customized Card](https://github-readme-stats.vercel.app/api/pin/?username=Amatofrancesco99&repo=Gas_consumption-prediction&show_icons=true&theme=merko&hide_border=true)](https://github.com/Amatofrancesco99/Gas_consumption-prediction)
-[![Customized Card](https://github-readme-stats.vercel.app/api/pin/?username=Amatofrancesco99&repo=Ornamental-value-estimation&show_icons=true&theme=merko&hide_border=true)](https://github.com/Amatofrancesco99/Ornamental-value-estimation)
+[![Customized Card](https://github-readme-stats.vercel.app/api/pin/?username=Amatofrancesco99&repo=food-recommender&show_icons=true&theme=merko&hide_border=true)](https://github.com/Amatofrancesco99/food-recommender)
 [![Customized Card](https://github-readme-stats.vercel.app/api/pin/?username=Amatofrancesco99&repo=Steganography&show_icons=true&theme=merko&hide_border=true)](https://github.com/Amatofrancesco99/Steganography)
 [![Customized Card](https://github-readme-stats.vercel.app/api/pin/?username=Amatofrancesco99&repo=Autonomous-Car-Drive&show_icons=true&theme=merko&hide_border=true)](https://github.com/Amatofrancesco99/Autonomous-Car-Drive)
 
@@ -99,6 +97,7 @@ Here's a list:
 
 ***
 ### 📲 How to contact me 
-You can get all my references here:
 
-[![My Website](https://img.shields.io/badge/MY_OWN-WEBSITE-blueviolet)](https://www.amatofrancesco.altervista.org)
+<a href="https://www.linkedin.com/in/francesco-amato-243281230/?locale=en_US">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+<a href="https://t.me/+393928297748">![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)</a>
+<a href="mailto:amatofrancesco99@gmail.com">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
