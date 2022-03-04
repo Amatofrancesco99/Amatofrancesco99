@@ -16,7 +16,9 @@
 
 *** 
 ### 🧐 What I am studying
-I'm a <strong>data science student</strong> (Master degree), at the [University of Pavia](http://webing.unipv.eu/home/).
+I'm a <strong>data science student</strong> (Master degree), at the [University of Pavia](http://webing.unipv.eu/home/).<br>
+Meanwhile I am learning more about: artificial intelligence, machine learning, data analysis, statistics, cloud computing and development of web-apps.<br>
+During my free time I like coding, reading books and play videogames.
 
 ***
 ### 👨🏻‍💻 My software developement passion
@@ -61,7 +63,7 @@ I have always been <strong>fascinated by <em>computer science</em></strong> fiel
 
 *** 
 ### 🔭 What I am actually working on 
-I'm working on my bachelor degree thesis on data-analytics applied onto IoT sensors.
+Actually I'm working on the food-recommender webapp.
 
 ***
 ### 🚀 Some of my projects
@@ -76,28 +78,12 @@ In my repositories you can find <strong>some of my projects</strong>, made over 
 [![Customized Card](https://github-readme-stats.vercel.app/api/pin/?username=Amatofrancesco99&repo=Autonomous-Car-Drive&show_icons=true&theme=merko&hide_border=true)](https://github.com/Amatofrancesco99/Autonomous-Car-Drive)
 
 *** 
-### 📚 Studies and interests
-Actually I'm learning more about: artificial intelligence, data analysis, cloud computing, development of: web apps, mobile apps & games.
-<br><br>
-Instead, during my free time, among the other things, I like reading books. 
-<br>
-Here's a list:
-  * <strong>Clean Code: A Handbook of Agile Software Craftsmanship</strong> - Robert C. Martin
-  * <strong>Storytelling With Data: A Data Visualization Guide For Business Professionals</strong> - Cole Nussbaumer Knaflic
-  * <strong>Superintelligence: Paths, Dangers, Strategies</strong> - Nick Bostrom
-  * <strong>Cloud Computing: Concepts, Technology & Architecture</strong> - Thomas Erl
-  * <strong>Leonardo da Vinci</strong> - Walter Isaacson
-  * <strong>Norse Mythology</strong> - Neil Gaiman
-  * <strong>[21 Data Science Books You Should Read](https://towardsdatascience.com/21-data-science-books-you-should-read-in-2021-db625e97feb6)</strong>
-
-*** 
 ### 🗣 Spoken languages
 - ITALIAN - mother tongue
 - ENGLISH - B2 / first
 
 ***
 ### 📲 Contact me 
-
 <a href="https://www.linkedin.com/in/francesco-amato-243281230/?locale=en_US">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 <a href="https://t.me/+393928297748">![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)</a>
 <a href="mailto:amatofrancesco99@gmail.com">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
