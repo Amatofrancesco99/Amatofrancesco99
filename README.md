@@ -4,7 +4,6 @@
 [![My Website](https://img.shields.io/badge/HAVE_A_LOOK_AT_-MY_WEBSITE-blueviolet)](https://www.amatofrancesco.altervista.org)
 ![Profile Views Counter](https://komarev.com/ghpvc/?username=Amatofrancesco99&label=PROFILE+VIEWS&color=blueviolet)
 
-
 <details>
   <summary><b><strong>📈 MY GITHUB STATS</strong></b></summary>
   <br>
@@ -17,12 +16,26 @@
 *** 
 ### 🧐 Something more about me
 I'm a <strong>data science student</strong> (Master degree), at the [University of Pavia](http://webing.unipv.eu/home/).<br>
-Meanwhile I am learning more about: artificial intelligence, machine learning, data analysis, statistics, cloud computing and development of web-apps.<br>
-During my free time I like coding in many application fields, reading books and play videogames.
+Meanwhile, I am learning more about: artificial intelligence, machine learning, data analysis, statistics, cloud computing and development of web-apps.<br>
+During my free time I like *coding* in many application fields, *reading books* and *play videogames*.
+
+***
+### 🚀 Some of my projects
+In my repositories you can find <strong>some of my projects</strong>, made over the years, such as:
+<br>
+[![Customized Card](https://github-readme-stats.vercel.app/api/pin/?username=Amatofrancesco99&repo=Progetto-F21&show_icons=true&theme=merko&hide_border=true)](https://github.com/Amatofrancesco99/Progetto-F21&show_icons=true&theme=merko&hide_border=true)
+[![Customized Card](https://github-readme-stats.vercel.app/api/pin/?username=Amatofrancesco99&repo=image_quality_assessment&show_icons=true&theme=merko&hide_border=true)](https://github.com/Amatofrancesco99/image_quality_assessment)
+[![Customized Card](https://github-readme-stats.vercel.app/api/pin/?username=Amatofrancesco99&repo=Gas_consumption-prediction&show_icons=true&theme=merko&hide_border=true)](https://github.com/Amatofrancesco99/Gas_consumption-prediction)
+[![Customized Card](https://github-readme-stats.vercel.app/api/pin/?username=Amatofrancesco99&repo=food-recommender&show_icons=true&theme=merko&hide_border=true)](https://github.com/Amatofrancesco99/food-recommender)
+[![Customized Card](https://github-readme-stats.vercel.app/api/pin/?username=Amatofrancesco99&repo=Steganography&show_icons=true&theme=merko&hide_border=true)](https://github.com/Amatofrancesco99/Steganography)
+[![Customized Card](https://github-readme-stats.vercel.app/api/pin/?username=Amatofrancesco99&repo=Autonomous-Car-Drive&show_icons=true&theme=merko&hide_border=true)](https://github.com/Amatofrancesco99/Autonomous-Car-Drive)
+
+*** 
+### 🔭 What I am actually working on 
+Actually I'm working on the food-recommender web-app.
 
 ***
 ### 🏅 Knowledge badges
-
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
@@ -51,27 +64,10 @@ During my free time I like coding in many application fields, reading books and 
 ![VISUAL-STUDIO-CODE](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![ARDUINO](https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 
-
 ![BOOTSTRAP](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![GIT](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GOOGLE-SHEETS](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white)
 ![MICROSOFT-OFFICE](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
-
-*** 
-### 🔭 What I am actually working on 
-Actually I'm working on the food-recommender webapp.
-
-***
-### 🚀 Some of my projects
-In my repositories you can find <strong>some of my projects</strong>, made over the years, such as:
-<br>
-
-[![Customized Card](https://github-readme-stats.vercel.app/api/pin/?username=Amatofrancesco99&repo=Progetto-F21&show_icons=true&theme=merko&hide_border=true)](https://github.com/Amatofrancesco99/Progetto-F21&show_icons=true&theme=merko&hide_border=true)
-[![Customized Card](https://github-readme-stats.vercel.app/api/pin/?username=Amatofrancesco99&repo=image_quality_assessment&show_icons=true&theme=merko&hide_border=true)](https://github.com/Amatofrancesco99/image_quality_assessment)
-[![Customized Card](https://github-readme-stats.vercel.app/api/pin/?username=Amatofrancesco99&repo=Gas_consumption-prediction&show_icons=true&theme=merko&hide_border=true)](https://github.com/Amatofrancesco99/Gas_consumption-prediction)
-[![Customized Card](https://github-readme-stats.vercel.app/api/pin/?username=Amatofrancesco99&repo=food-recommender&show_icons=true&theme=merko&hide_border=true)](https://github.com/Amatofrancesco99/food-recommender)
-[![Customized Card](https://github-readme-stats.vercel.app/api/pin/?username=Amatofrancesco99&repo=Steganography&show_icons=true&theme=merko&hide_border=true)](https://github.com/Amatofrancesco99/Steganography)
-[![Customized Card](https://github-readme-stats.vercel.app/api/pin/?username=Amatofrancesco99&repo=Autonomous-Car-Drive&show_icons=true&theme=merko&hide_border=true)](https://github.com/Amatofrancesco99/Autonomous-Car-Drive)
 
 *** 
 ### 🗣 Spoken languages
