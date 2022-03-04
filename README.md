@@ -15,7 +15,7 @@
 </details>
 
 *** 
-### 🧐 What I am studying
+### 🧐 Something more about me
 I'm a <strong>data science student</strong> (Master degree), at the [University of Pavia](http://webing.unipv.eu/home/).<br>
 Meanwhile I am learning more about: artificial intelligence, machine learning, data analysis, statistics, cloud computing and development of web-apps.<br>
 During my free time I like coding, reading books and play videogames.
