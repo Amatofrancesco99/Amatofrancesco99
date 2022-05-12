@@ -10,7 +10,6 @@
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Amatofrancesco99&theme=github_dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Amatofrancesco99&layout=compact&theme=merko&hide_border=true&langs_count=10)
-![Amatofrancesco99 GitHub stats](https://github-readme-stats.vercel.app/api?username=Amatofrancesco99&show_icons=true&theme=merko&hide_border=true&custom_title=GitHub%20Stats)
 </details>
 
 *** 
