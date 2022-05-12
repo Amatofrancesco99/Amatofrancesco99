@@ -31,7 +31,7 @@ In my repositories you can find <strong>some of my projects</strong>, made over 
 
 *** 
 ### 🔭 What I am actually working on 
-Actually I'm working on the food-recommender web-app.
+Actually I'm working on the ddos-simlation repository.
 
 ***
 ### 🏅 Knowledge badges
