@@ -1,7 +1,8 @@
 # Hi there, I am Francesco Amato  <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px"></a>
 
 [![Mentioned in Awesome GitHub Profile README](https://awesome.re/mentioned-badge-flat.svg)](https://github.com/abhisheknaiidu/awesome-github-profile-readme)
-[![My Website](https://img.shields.io/badge/HAVE_A_LOOK_AT_-MY_WEBSITE-blueviolet)](https://www.amatofrancesco.altervista.org)
+[![Website](https://img.shields.io/badge/MY-_WEBSITE-blueviolet)](https://www.amatofrancesco.altervista.org)
+[![CV](https://img.shields.io/badge/MY-_CURRICULUM-blueviolet)](h[ttps://www.amatofrancesco.altervista.org](https://drive.google.com/file/d/17mstY4VuNSiuQvfet5FW1PAGQw0kCB2F/view))
 ![Profile Views Counter](https://komarev.com/ghpvc/?username=Amatofrancesco99&label=PROFILE+VIEWS&color=blueviolet)
 
 <details>
