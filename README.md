@@ -1,4 +1,4 @@
-# Hi there, I am Francesco Amato  <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px"></a>
+# Hi there, I am Francesco Amato  <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" height="45" width="45"/></a>
 
 [![Mentioned in Awesome GitHub Profile README](https://awesome.re/mentioned-badge-flat.svg)](https://github.com/abhisheknaiidu/awesome-github-profile-readme)
 [![Website](https://img.shields.io/badge/MY-_WEBSITE-blueviolet)](https://www.amatofrancesco.altervista.org)
