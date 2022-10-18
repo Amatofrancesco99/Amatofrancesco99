@@ -32,7 +32,7 @@ In my repositories you can find <strong>some of my projects</strong>, made over 
 
 *** 
 ### 🔭 What I am actually working on 
-Actually I'm working on the [ddos-simulation](https://github.com/aiman-al-masoud/dos-simulation) repository.
+Actually I'm developing an OpenMPI implementation of the well known K-Nearest Neighbors (Machine Learning) algorithm.
 
 ***
 ### 🏅 Knowledge badges
