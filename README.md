@@ -19,17 +19,6 @@ I'm a <strong>data science student</strong> (Master degree), at the [University 
 Meanwhile, I am learning more about: artificial intelligence, machine learning, data analysis, statistics, cloud computing and development of web-apps.<br>
 During my free time I like *coding* in many application fields, *reading books* and *play videogames*.
 
-***
-### 🚀 Some of my projects
-In my repositories you can find <strong>some of my projects</strong>, made over the years, such as:
-<br>
-[![Customized Card](https://github-readme-stats.vercel.app/api/pin/?username=Amatofrancesco99&repo=Cinema-managing-system&show_icons=true&theme=merko&hide_border=true)](https://github.com/Amatofrancesco99/Cinema-managing-system)
-[![Customized Card](https://github-readme-stats.vercel.app/api/pin/?username=Amatofrancesco99&repo=mdns-security&show_icons=true&theme=merko&hide_border=true)](https://github.com/Amatofrancesco99/mdns-security)
-[![Customized Card](https://github-readme-stats.vercel.app/api/pin/?username=Amatofrancesco99&repo=Gas_consumption-prediction&show_icons=true&theme=merko&hide_border=true)](https://github.com/Amatofrancesco99/Gas_consumption-prediction)
-[![Customized Card](https://github-readme-stats.vercel.app/api/pin/?username=Amatofrancesco99&repo=image_quality_assessment&show_icons=true&theme=merko&hide_border=true)](https://github.com/Amatofrancesco99/image_quality_assessment)
-[![Customized Card](https://github-readme-stats.vercel.app/api/pin/?username=Amatofrancesco99&repo=food-recommender&show_icons=true&theme=merko&hide_border=true)](https://github.com/Amatofrancesco99/food-recommender)
-[![Customized Card](https://github-readme-stats.vercel.app/api/pin/?username=Amatofrancesco99&repo=Steganography&show_icons=true&theme=merko&hide_border=true)](https://github.com/Amatofrancesco99/Steganography)
-
 *** 
 ### 🔭 What I am actually working on 
 Actually I'm developing an OpenMPI implementation of the well known K-Nearest Neighbors (Machine Learning) algorithm.
