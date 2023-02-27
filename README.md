@@ -1,16 +1,20 @@
 # Hi there, I am Francesco Amato  <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" height="45" width="45"/></a>
 
-[![Mentioned in Awesome GitHub Profile README](https://awesome.re/mentioned-badge-flat.svg)](https://github.com/abhisheknaiidu/awesome-github-profile-readme)
-[![Website](https://img.shields.io/badge/MY-_WEBSITE-blueviolet)](https://www.amatofrancesco.altervista.org)
-[![CV](https://img.shields.io/badge/MY-_CURRICULUM-blueviolet)](https://drive.google.com/file/d/17mstY4VuNSiuQvfet5FW1PAGQw0kCB2F/view)
-![Profile Views Counter](https://komarev.com/ghpvc/?username=Amatofrancesco99&label=PROFILE+VIEWS&color=blueviolet)
+<p align="center"> 
+  Visitors count<br>
+  <img src="https://profile-counter.glitch.me/Amatofrancesco99/count.svg" />
+</p>
+
+<p align="center"> 
+  <a href="https://amatofrancesco.altervista.org/">amatofrancesco.altervista.org</a>
+</p>
 
 <details>
-  <summary><b><strong>📈 MY GITHUB STATS</strong></b></summary>
+  <summary><b><strong>🚀 GitHub Stats</strong></b></summary>
   <br>
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Amatofrancesco99&theme=github_dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Amatofrancesco99&layout=compact&theme=merko&hide_border=true&langs_count=10)
+ 
+  ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Amatofrancesco99&theme=github_dark)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Amatofrancesco99&layout=compact&theme=merko&hide_border=true&langs_count=10)
 </details>
 
 *** 
