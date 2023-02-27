@@ -2,7 +2,7 @@
 
 <p align="left"> 
   Visitors count<br>
-  <img src="https://profile-counter.glitch.me/Amatofrancesco99GitHub/count.svg" />
+  <img src="https://profile-counter.glitch.me/GitHub-Amatofrancesco99/count.svg" />
 </p>
 
 <p align="right"> 
