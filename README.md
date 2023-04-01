@@ -20,12 +20,12 @@
 *** 
 ### 🧐 Something more about me
 I'm a <strong>data science student</strong> (Master degree), at the [University of Pavia](http://webing.unipv.eu/home/).<br>
-Meanwhile, I am learning more about: artificial intelligence, machine learning, data analysis, statistics, cloud computing and development of web-apps.<br>
-During my free time I like *coding* in many application fields, *reading books* and *play videogames*.
+Meanwhile, I love to learn more about: AI, ML, DL, data analysis, statistics, code performance, cloud computing and development of web-apps.<br>
+During my free time I *code*, *read books* and *play videogames* (my favourite one is definitively [RDR2](https://www.rockstargames.com/reddeadredemption2/)).
 
 *** 
 ### 🔭 What I am actually working on 
-Actually I'm developing an OpenMPI implementation of the well known K-Nearest Neighbors (Machine Learning) algorithm.
+Actually I'm developing a system capable of detecting the dates when a crop field has been manured, using satellite data.
 
 ***
 ### 🏅 Knowledge badges
@@ -37,11 +37,6 @@ Actually I'm developing an OpenMPI implementation of the well known K-Nearest Ne
 ![JAVASCRIPT](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![PYTHON](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)
-
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
 
 ![MY-SQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
