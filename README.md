@@ -22,6 +22,9 @@
 I'm a <strong>data science student</strong> (Master degree), at the [University of Pavia](http://webing.unipv.eu/home/).<br>
 Meanwhile, I love to learn more about: AI, ML, DL, data analysis, statistics, code performance, cloud computing and development of web-apps.<br>
 During my free time I *code*, *read books* and *play videogames* (my favourite one is definitively [RDR2](https://www.rockstargames.com/reddeadredemption2/)).
+<br>
+
+<img src="https://static0.gamerantimages.com/wordpress/wp-content/uploads/2021/08/arthur-morgan-john-marston-goodbye-red-dead-redemption-2.jpg" width=550>
 
 *** 
 ### 🔭 What I am actually working on 
