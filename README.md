@@ -24,8 +24,6 @@ Meanwhile, I love to learn more about: AI, ML, DL, data analysis, statistics, co
 During my free time I *code*, *read books* and *play videogames* (my favourite one is definitively [RDR2](https://www.rockstargames.com/reddeadredemption2/)).
 <br>
 
-<img src="https://static0.gamerantimages.com/wordpress/wp-content/uploads/2021/08/arthur-morgan-john-marston-goodbye-red-dead-redemption-2.jpg" width=550>
-
 *** 
 ### 🔭 What I am actually working on 
 Actually I'm developing a system capable of detecting the dates when a crop field has been manured, using satellite data.
