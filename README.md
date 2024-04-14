@@ -5,10 +5,6 @@
   <img src="https://profile-counter.glitch.me/GitHub-Amatofrancesco99/count.svg" />
 </p>
 
-<p align="right"> 
-  <a href="https://amatofrancesco.altervista.org/" target="_blank">https://amatofrancesco.altervista.org</a>
-</p>
-
 <details>
   <summary><b><strong>🚀 GitHub Stats</strong></b></summary>
   <br>
@@ -19,14 +15,10 @@
 
 *** 
 ### 🧐 Something more about me
-I'm a <strong>data science student</strong> (Master degree), at the [University of Pavia](http://webing.unipv.eu/home/).<br>
-Meanwhile, I love to learn more about: AI, ML, DL, data analysis, statistics, code performance, cloud computing and development of web-apps.<br>
-During my free time I *code*, *read books* and *play videogames* (my favourite one is definitively [RDR2](https://www.rockstargames.com/reddeadredemption2/)).
+I'm a <strong>Data Science consultant</strong>, at the [Go Reply]([http://webing.unipv.eu/home/](https://www.google.com/search?channel=fs&client=ubuntu&q=go+reply+)).<br>
+I work in the Data Engineering and Machine Learning areas, leveraging different Google Cloud services (e.g. Vertex AI, Cloud Composer, Dataform, BigQuery, ...).
+During my free time I *code*, *read books* and *play videogames*.
 <br>
-
-*** 
-### 🔭 What I am actually working on 
-Actually I'm developing a system capable of detecting the dates when a crop field has been manured, using satellite data.
 
 ***
 ### 🏅 Knowledge badges
