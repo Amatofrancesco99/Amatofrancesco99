@@ -50,5 +50,4 @@ During my free time I *code*, *read books* and *play videogames*.
 ***
 ### 📲 Contact me 
 <a href="https://www.linkedin.com/in/francesco-amato-243281230/?locale=en_US" target="_blank">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
-<a href="https://t.me/+393928297748" target="_blank">![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)</a>
 <a href="mailto:amatofrancesco99@gmail.com" target="_blank">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
