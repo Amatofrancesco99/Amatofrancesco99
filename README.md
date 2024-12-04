@@ -15,7 +15,7 @@
 
 *** 
 ### 🧐 Something more about me
-I'm a <strong>Data Science consultant</strong>, at [Go Reply](https://www.reply.com/go-reply/en/). I work in the Data Engineering and Machine Learning areas, leveraging different Google Cloud services (e.g. Vertex AI, Cloud Composer, Dataform, BigQuery, etc.). <br>
+I'm a <strong>Data Science consultant</strong>. I work in Machine Learning and Data Engineering areas. <br>
 During my free time I *code*, *read books* and *play videogames*.
 
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
