@@ -44,7 +44,7 @@ I am an **Advanced Data Scientist** with expertise in **Data Engineering**, **Ma
 
 ---
 
-## 💡 **Projects**
+## 💡 **Most Relevant Public Projects**
 
 ### **[LLaMA First Aid](https://github.com/Amatofrancesco99/llama-first-aid)**
 **Rome, Italy** | 11/2024 | LLaMA Impact Hackathon 🥈
