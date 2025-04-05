@@ -56,7 +56,7 @@ An AI-driven app that provides real-time medical emergency support. It uses a mu
 
 This project uses satellite data and machine learning to monitor fertilizer use in agriculture, ensuring environmental regulation compliance. It analyzes spectral indices to track fertilizer application across Europe and helps reduce pollution by optimizing its usage. The system supports sustainable practices and scalable applications for biodiversity and land-use planning.
 
-### **[ee-satellites](https://github.com/Amatofrancesco99/ee-satellites) PyPI Library**  
+### **[ee-satellites](https://github.com/Amatofrancesco99/ee-satellites)**  
 **Pavia, Italy** | 03/2023 - 04/2024
 
 A Python library that simplifies satellite data acquisition and analysis, supporting sources like Landsat and Sentinel. It integrates with Google Earth Engine, accelerates data processing, and enables spectral index extraction. The library allows researchers to have datasets to be used for several purposes like machine learning for advanced analysis and predictions on satellite imagery.
