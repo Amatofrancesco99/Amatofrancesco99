@@ -37,6 +37,7 @@ I am an **Advanced Data Scientist** with expertise in **Data Engineering**, **Ma
 
 ## 📚 **Certifications**
 
+- **Microsoft Azure Data Scientist Associate**
 - **Neo4j Certified Professional**
 - **Google Cloud Professional Machine Learning Engineer**
 - **Google Cloud Professional Database Engineer**
