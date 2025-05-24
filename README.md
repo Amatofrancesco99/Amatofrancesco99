@@ -6,8 +6,7 @@
 </p>
 
 ✉️ **Email**: [amatofrancesco99@gmail.com](mailto:amatofrancesco99@gmail.com)  
-🔗 **LinkedIn**: [Francesco Amato](https://www.linkedin.com/in/francesco-amato-243281230/)  
-💻 **GitHub**: [Amatofrancesco99](https://github.com/Amatofrancesco99)
+🔗 **LinkedIn**: [Francesco Amato](https://www.linkedin.com/in/francesco-amato-243281230/)
 
 ---
 
